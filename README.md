@@ -16,9 +16,6 @@ This repository contains the **modules, practical exercises, and programs** comp
 
 The main objective of this lab is to learn how to **design effective prompts and use Generative AI tools efficiently**.
 
-**A. Navaneetha**
-B.Tech – Artificial Intelligence & Data Science
-
 ---
 
 ⭐ **Prompt Engineering Lab – Learning, Experimenting & Building with Generative AI**
