@@ -1,6 +1,5 @@
 from langchain.chat_models import init_chat_model
 from langchain_core.prompts import PromptTemplate
-
 model=init_chat_model(
 model="llama3.1:latest",
 model_provider="ollama",
